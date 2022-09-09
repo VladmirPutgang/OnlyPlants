@@ -3,7 +3,7 @@ A platform to allow people to trade plants and expand their gardens or plant col
 
 ![alt tag](https://i.imgur.com/Wm1jnIT.jpeg)
 
-**Link to project:** http://GardenGracious.com/
+**Link to project:** ~~http://GardenGracious.com/~~
 
 ## How It's Made:
 
