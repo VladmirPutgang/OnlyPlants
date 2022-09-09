@@ -1,7 +1,7 @@
 {
-  "name": "binary-upload-boom",
+  "name": "onlyPlants",
   "version": "1.0.0",
-  "description": "100Devs Social Network",
+  "description": "Social Network for trading plants",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
