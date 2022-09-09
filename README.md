@@ -1,7 +1,7 @@
 # OnlyPlants
 A platform to allow people to trade plants and expand their gardens or plant collections.
 
-![alt tag](https://imgur.com/Wm1jnIT)
+![alt tag](https://i.imgur.com/Wm1jnIT.jpeg)
 
 **Link to project:** http://GardenGracious.com/
 
